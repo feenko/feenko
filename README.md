@@ -1,7 +1,3 @@
-# Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feenko&theme=dark&border_color=252625)](https://github.com/yourusername/github-readme-stats)
 
-I'm a developer from Poland. I'm currently working on a few projects, including a Discord bot and a few websites.
-
-## Contact
-
-You can find me on [Discord](https://discord.com/users/1155452926970577008).
+javascript = bad
